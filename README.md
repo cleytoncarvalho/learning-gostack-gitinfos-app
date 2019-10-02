@@ -2,7 +2,7 @@
 
 React Native project developed at the GoStack bootcamp, add GitHub users and show their favorite repositories.
 
-Used technologies:
+Techs:
 
 - React Native
 - React Navigation
