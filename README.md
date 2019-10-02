@@ -1,6 +1,6 @@
 # GetInfos
 
-React Native project developed at the bootcamp GoStack, add GitHub users and show their favorite repositories.
+React Native project developed at the GoStack bootcamp, add GitHub users and show their favorite repositories.
 
 Used technologies:
 
