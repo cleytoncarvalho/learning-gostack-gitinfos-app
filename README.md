@@ -1,8 +1,10 @@
-# GetInfos
+# Learning - React Native
 
-React Native project developed at the GoStack bootcamp, add GitHub users and show their favorite repositories.
+:us: Project part of the bootcamp Gostack from Rocketseat. Add GitHub users and show their favorite repositories.
 
-Techs:
+:brazil: Projeto parte do bootcamp Gostack da Rocketseat. Adiciona usuários do GitHub e mostra seus repositórios favoritos.
+
+:toolbox: Used in this project:
 
 - React Native
 - React Navigation
